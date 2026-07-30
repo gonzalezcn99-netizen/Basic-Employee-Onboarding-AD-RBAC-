@@ -1,7 +1,7 @@
 # Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement
-Northstar Medical Group’s Active Directory was broken and disorganized. Users were added manually and randomly, with zero structure. Some people had more permissions than they should have, while others had less access than they needed. When someone left the company, the MSP would sometimes forget to disable their account for months. No one documented updates or changes made to user accounts and new hires experienced access issues for days. NMG was at significant HIPAA risk due to the lack of structure and manual processes. 
+This project focused on issues within a fictional company called Northstar Medical Group. User accounts were created manually and inconsistently, with no organizational structure. Some employees had excessive permissions, while others lacked the access required for their roles. When staff left the company, the MSP often failed to disable their accounts for months. No changes to user accounts were documented, and new hires frequently experienced access problems for several days. Due to these disorganized and manual processes, NMG faced significant HIPAA compliance risks.
 
 ## Solution Overview
 I created four Organizational Units: Finance, HR, IT, and Operations. Each user was added to their correct department and assigned to the appropriate security group, ensuring the principle of least privilege. All 15 users were verified to be in the correct department and security group. Northstar Medical Group now has a well‑structured and organized Active Directory/RBAC environment. It is now easier to track disabled/enabled accounts, move users, and maintain overall organization.
