@@ -6,8 +6,7 @@ This project was based on a fictional company called Northstar Medical Group, wh
 I created four Organizational Units: Finance, HR, IT, and Operations. Each user was added to their correct department and assigned to the appropriate security group, ensuring the principle of least privilege. It is now easier to track disabled/enabled accounts, move users, and maintain overall organization. I also ran a mock ticket to simulate a user being given the wrong access and walked through the steps to correct it. Northstar Medical Group now has a well‑structured and organized Active Directory/RBAC environment.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
-
+https://www.loom.com/share/4d56aa413a90494ab5baadf59b9578c5
 ## Tools Used
 * Windows Server
 * Active Directory Domain Services
