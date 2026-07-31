@@ -2,7 +2,7 @@
 2. Jane was in the Operations OU but she needs to be moved in the HR OU because she's a payroll specialist.
 3. Jane is currently a member of operations-user. She should be a member of hr-users.
 
-Jane's user account was incorrectly placed on Operations OU ans she was supposed to be on HR OU since she was hired as a payroll specialist. This caused her access denied on all HR shared resources and her computer acting different from her HR teammates.
+Jane’s user account was mistakenly placed in the Operations OU, even though she should have been in the HR OU because she was hired as a payroll specialist. As a result, she was denied access to all HR shared resources, and her desktop behaved differently from her HR teammates.
 
 Ticket number: NMG-0047
 Affected user: Jane Cooper (jcooper@NMG.com)
